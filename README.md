@@ -2,6 +2,8 @@
 
 Goal: Create a working login form using NodeJS and Express as the backend and NextJS as the frontend
 
+Demo: [https://drive.google.com/file/d/1hPTh4I58dv5fH3m9h2oUeGMCjJA3uSFe/view?usp=sharing]
+
 1. Set up your backend server using NodeJS and Express
 2. Set up your frontend using NextJS
 3. On your backend server, create an in-memory database of users with the username as 'admin' and password is 'admin12345'
