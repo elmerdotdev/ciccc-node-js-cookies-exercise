@@ -2,6 +2,8 @@
 
 **Goal:** Create a working login form using NodeJS and Express. Use EJS for the frontend.
 
+## Instructions
+
 1. Set up your server using NodeJS and Express.
 2. Create an in-memory database of users with the username as 'admin' and password is 'admin12345'. You can just store the database inside your route for now.
 3. Make sure you have these routes and pages:
